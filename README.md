@@ -304,6 +304,6 @@ hobbies: ["Coding", "Graphic Design", "Video Editing"]
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  <p><em>"AMBASSSING!!!"</em> - Cory House</p>
+  <p><em>"AMBASSSING!!!"</em> - Dreamybull</p>
   <p><strong>⭐ Star some repositories if you find them interesting!</strong></p>
 </div>
