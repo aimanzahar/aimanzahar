@@ -283,6 +283,9 @@ hobbies: ["Coding", "Graphic Design", "Video Editing"]
   <a href="https://github.com/aimanzahar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.threads.com/@nuai.za" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+  </a>
   <a href="tel:+60167917649">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
