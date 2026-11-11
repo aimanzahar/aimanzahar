@@ -1,0 +1,9 @@
+# Cursor rules directory
+.cursor/
+
+# Other common exclusions
+node_modules/
+.env
+.DS_Store
+*.log 
+/%USERPROFILE%
