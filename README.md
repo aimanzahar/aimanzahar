@@ -10,12 +10,7 @@ Full-stack developer and founder of [CtrlZ Digital Labs](https://ctrlz.my/). I b
 
 ## Projects
 
-- [CheckLaPrice](https://github.com/aimanzahar/CheckLaPrice): wishlist and price watcher for Lazada and Shopee. React Native (Expo), Convex, Apify.
-- [BarakahBot](https://github.com/aimanzahar/BarakahBot_Prototype): donations, campaign management and Zakat calculation.
-- [EcoPay](https://github.com/aimanzahar/ecopay): carbon footprint tracking for the Touch 'n Go e-wallet. Flutter.
-- [MealShare](https://github.com/aimanzahar/MealShare): Android app connecting surplus-food donors with NGOs. Kotlin, Appwrite.
-- [Musicky](https://musicky.vercel.app): music streaming web app. TypeScript, React.
-- [YoPrint](https://github.com/aimanzahar/yoprint): online printing service platform. PHP, Laravel.
+- [cookierift.com](https://cookierift.com/): fan-made browser version of the Cookie Run: Braverse card game. Build decks, battle friends, or practice against a bot.
 
 ## Hackathons
 
@@ -23,5 +18,5 @@ SDG-XI Hackathon 2025 (finalist) · Deriv AI Hackathon (top 10) · PayHack 2025 
 
 ## Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aimanzahar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanzahar&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aimanzahar&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aimanzahar&theme=tokyonight" alt="Top languages" />
