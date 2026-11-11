@@ -2,7 +2,7 @@
 
 Full-stack developer and founder of [CtrlZ Digital Labs](https://ctrlz.my/). I build web and mobile apps, and I care most about speed and accessibility.
 
-[Website](https://ctrlz.my/) · [Threads](https://www.threads.com/@nuai.za) · [Email](mailto:zahar@ctrlz.my)
+[Website](https://ctrlz.my/) · [Threads](https://www.threads.com/@nuai.za) · [Email](mailto:zahar@ctrlz.my) · [WhatsApp](https://wa.me/@zaharch)
 
 ## Tech
 
